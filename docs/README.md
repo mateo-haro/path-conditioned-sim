@@ -1,7 +1,7 @@
 # IsaacLab Navigation Extension - SRU Project (Path-Conditioned)
 
-[![Paper](https://img.shields.io/badge/IJRR-2025-blue)](https://journals.sagepub.com/home/ijr)
-[![Website](https://img.shields.io/badge/Project-Website-green)](https://michaelfyang.github.io/sru-project-website/)
+[![Paper](https://arxiv.org/abs/2603.13888)
+[![Website](https://leggedrobotics.github.io/rl-path-following/)
 
 > **📌 Important Note**: This repository contains the **IsaacLab task extension** for the SRU project, providing diverse navigation environments with dynamic obstacle configurations and terrain variations. This repository does **not** include the `rsl_rl` learning module (network architectures, PPO/MDPO training algorithms). See the [project website](https://michaelfyang.github.io/sru-project-website/) for the complete navigation system.
 
